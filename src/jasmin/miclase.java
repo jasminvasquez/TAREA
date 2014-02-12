@@ -21,7 +21,7 @@ public class miclase
 		{
 			System.out.print("es un 10");
 		}
-		System.out.print("fin del programa");
+		System.out.print("fin del prog");
 	}
 }
 
